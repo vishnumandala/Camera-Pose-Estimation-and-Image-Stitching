@@ -79,4 +79,4 @@ This code stictches given images and generates a Panoramic Image
 3. Run the code: problem2.py
 
 ## Output
-![Point Cloud Processing](https://github.com/vishnumandala/Camera-Pose-Estimation-and-Image-Stitching/blob/main/problem2_panorama.png)
+![Image Stitching](https://github.com/vishnumandala/Camera-Pose-Estimation-and-Image-Stitching/blob/main/problem2_panorama.png)
