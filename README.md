@@ -60,6 +60,9 @@ Rotation:
  [ 0.00711584  0.98270542  0.185039  ]]
 Translation:
  [ 4.46735501 -3.45086053  2.95554201]
+ 
+ ## Output
+![Camera Pose Estimation](https://github.com/vishnumandala/Camera-Pose-Estimation-and-Image-Stitching/blob/main/problem1_output.png)
 
 ## Problem 2 - Image Stitching
 This code stictches given images and generates a Panoramic Image
@@ -74,3 +77,6 @@ This code stictches given images and generates a Panoramic Image
 1. Place the data files in the same directory as the code file
 2. Set the filenames of the images in the load function call in lines 57-60 of the code
 3. Run the code: problem2.py
+
+## Output
+![Point Cloud Processing](https://github.com/vishnumandala/Camera-Pose-Estimation-and-Image-Stitching/blob/main/problem2_panorama.png)
